@@ -1,0 +1,11 @@
+BaTiO3-12x12x12_100_eye.cfg
+BaTiO3-12x12x12_101_eye.cfg
+BaTiO3-12x12x12_102_eye.cfg
+BaTiO3-12x12x12_103_eye.cfg
+BaTiO3-12x12x12_104_eye.cfg
+BaTiO3-12x12x12_105_eye.cfg
+BaTiO3-12x12x12_106_eye.cfg
+BaTiO3-12x12x12_107_eye.cfg
+BaTiO3-12x12x12_108_eye.cfg
+BaTiO3-12x12x12_109_eye.cfg
+BaTiO3-12x12x12_10_eye.cfg
